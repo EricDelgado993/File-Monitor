@@ -1,0 +1,14 @@
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\bin\Debug\net8.0\FileMonitorTest.exe
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\bin\Debug\net8.0\FileMonitorTest.deps.json
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\bin\Debug\net8.0\FileMonitorTest.runtimeconfig.json
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\bin\Debug\net8.0\FileMonitorTest.dll
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\bin\Debug\net8.0\FileMonitorTest.pdb
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\obj\Debug\net8.0\FileMonitorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\obj\Debug\net8.0\FileMonitorTest.AssemblyInfoInputs.cache
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\obj\Debug\net8.0\FileMonitorTest.AssemblyInfo.cs
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\obj\Debug\net8.0\FileMonitorTest.csproj.CoreCompileInputs.cache
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\obj\Debug\net8.0\FileMonitorTest.dll
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\obj\Debug\net8.0\refint\FileMonitorTest.dll
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\obj\Debug\net8.0\FileMonitorTest.pdb
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\obj\Debug\net8.0\FileMonitorTest.genruntimeconfig.cache
+C:\Users\ericd\OneDrive\Desktop\C# Project Repository\FileMonitorTest\FileMonitorTest\obj\Debug\net8.0\ref\FileMonitorTest.dll
